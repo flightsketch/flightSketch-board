@@ -1,0 +1,17 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"R1";"R_0805_HandSoldering";1;"200k";;;
+2;"C1,C3,C4";"C_0805_HandSoldering";3;"10u";;;
+3;"C2,C5";"C_0805_HandSoldering";2;"0.1u";;;
+4;"U6";"BMP280";1;"BMP280";;;
+5;"J2,J3";"Pin_Header_Straight_1x05_Pitch2.54mm";2;"Conn_01x05_Male";;;
+6;"R2";"R_0805_HandSoldering";1;"100k";;;
+7;"R3";"R_0805_HandSoldering";1;"10k";;;
+8;"C6";"C_0805_HandSoldering";1;"1u";;;
+9;"C7";"C_0805_HandSoldering";1;".1u";;;
+10;"J1";"Pin_Header_Straight_1x03_Pitch2.54mm";1;"Conn_01x03_Male";;;
+11;"U1";"SOT-223-3_TabPin2";1;"LDL1117";;;
+12;"U2";"SOIC-28";1;"test";;;
+13;"U3";"SOIC-8-N";1;"accel";;;
+14;"U4";"RN4871";1;"RN4871";;;
+15;"U5";"SO8";1;"EEPROM";;;
+16;"";"MountingHole_2.5mm_Pad";1;"MountingHole_2.5mm_Pad";;;
