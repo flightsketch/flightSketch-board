@@ -18,6 +18,11 @@ K serial EEPROM SPI interface memory external
 F http://www.onsemi.com/PowerSolutions/product.do?id=CAT25040
 $ENDCMP
 #
+$CMP DMN2046U
+D Transistor N-MOSFET (general)
+K nmos n-mos n-mosfet transistor
+$ENDCMP
+#
 $CMP EEPROM
 D External EEPROM with SPI interface in 8-pin package
 K EEPROM memory SPI serial
